@@ -48,4 +48,4 @@ sudo systemctl start zabbix-agent
 sudo systemctl enable zabbix-agent
 systemctl status zabbix-agent
 
-
+ 
